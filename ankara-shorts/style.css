@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    background: gold;
+    height: 50px;
+}
+
+.hd{
+    position: relative;
+    top: 25%;
+}
+.food{
+    text-align: center;
+    padding: 20px;
+    font-size: larger;
+}
+img{
+    width: 90%;
+}
+.cloth{
+    text-align: center;
+}
